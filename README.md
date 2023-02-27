@@ -1,4 +1,4 @@
-# Popsicles
+# Popsicles ![](https://img.shields.io/badge/Dificultad-Fácil-green)
 
 Tenés una caja de paletas y querés regalárselas todas a un grupo de hermanos. Si queda suficiente en la caja para darles a cada uno la misma cantidad, ¡hazlo! Si no, se pelearán por ellos, y deberías comértelos tú.
 
