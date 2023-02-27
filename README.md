@@ -1,4 +1,4 @@
-# Fruit Bowl
+# Fruit Bowl ![](https://img.shields.io/badge/Dificultad-Fácil-green)
 
 Tenés un bol en la mesada con un número par de frutas. La mitad son bananas y la otra mitad manzanas. Necesitás 3 manzanas para hacer una tarta. 
 
