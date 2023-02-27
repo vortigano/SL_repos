@@ -1,4 +1,4 @@
-# Pig Latin  ![](https://img.shields.io/badge/Dificultad-Fácil-green)
+# Pig Latin ![](https://img.shields.io/badge/Dificultad-Fácil-green)
 
 ¡Tenés dos amigos que están hablando en Pig Latin! El pig latín consiste en decir las mismas palabras en el mismo orden, pero tomando la primera letra de cada palabra y poniéndola al final, y añadiendo `"ay"` al final. (`"road"` => `"oadray"`)
 
