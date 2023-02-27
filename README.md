@@ -1,4 +1,4 @@
-# Halloween Candy ![](https://img.shields.io/badge/Dificultad-Media-yellow)
+# Halloween Candy ![](https://img.shields.io/badge/Dificultad-Fácil-green)
 
 Vas a jugar al truco o travesura con un amigo y en todas las casas que visitás, excepto en tres, regalan caramelos. En una de las casas que visitás regalan cepillos de dientes y en dos regalan billetes de un dólar. 
 
