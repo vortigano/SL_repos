@@ -12,5 +12,5 @@
 - [safety deposit boxes](./codetrainer/safety_deposit_boxes/)
 
 ![](https://img.shields.io/badge/Dificultad-Difícil-red)
--
+- [new driver's license](./codetrainer/new_drivers_license/)
 
